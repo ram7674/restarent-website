@@ -1,0 +1,254 @@
+.logo-image{
+    height: 50px;
+    width: 100px;
+}
+#nav-item1{
+    color: #323f4b;
+    font-family: 'roboto';
+    font-size: 20px;
+}
+#nav-item2{
+    color: #323f4b;
+    font-family: 'roboto';
+    font-size: 20px;
+}
+#nav-item3{
+    color: #323f4b;
+    font-family: 'roboto';
+    font-size: 20px;
+}
+#nav-item4{
+    color: #323f4b;
+    font-family: 'roboto';
+    font-size: 20px;
+}
+.banner-bakground-image{
+    background-image: url("/images/thai-food-basil-minced-pork-with-rice-fried-egg_1150-27932.avif");
+    height: 100vh;
+    background-size: cover;
+    width: 100vw;
+}
+.heading1{
+    color: #ffffff;
+    font-family: 'roboto';
+}
+.offers{
+   font-weight: 600;
+}
+.eat-smart-para{
+    color: #ffffff;
+    font-family: 'roboto';
+    font-size: 25px;
+}
+.view-menu-button{
+    height: 35px;
+    width: 100px;
+    color: #ffffff;
+    background-color: #fab223;
+    font-family: 'roboto';
+    border-radius: 6px;
+    border-width: 0px;
+}
+.order-now-button{
+    height: 35px;
+    width: 100px;
+    font-family: 'roboto';
+    color: #fab223;
+    border-radius: 6px;
+    background-color: transparent;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #fab223;
+    margin-left: 10px;
+}
+.wcu-section-container{
+    background-color: #ffffff;
+    width: 100vw;
+    padding: 30px;
+}
+.container-card{
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    margin-right: 10px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #e5eaf4;
+}
+.description{
+    margin-bottom: 20px;
+}
+.food-services-image{
+    height: 90px;
+    width: 80px;
+    margin-bottom: 10px;
+}
+.services-heading{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.para2{
+    text-align: left;
+}
+.Explore-menu-container{
+    background-color: #ffffff;
+}
+.Explore-menu-heading{
+    color: #183b56;
+    font-family: 'roboto';
+    font-size: 30px;
+    font-weight: 700;
+}
+.menu-item-container{
+    padding: 20px;
+    border-radius: 10px;
+}
+.Explore-menu-image{
+    border-radius: 10px;
+}
+.Explore-menu-title{
+    font-size: 25px;
+    font-family: 'roboto';
+    font-weight: 600;
+    margin-top: 15px;
+}
+.Explore-menu-link{
+    color: #fab223;
+    font-family: 'roboto';
+    font-size: 18px;
+}
+.healthy-food-section{
+    background-color: #ffffff;
+}
+.healthy-food-section-img{
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+}
+.healthy-food-section-heading{
+    margin-top: 15px;
+}
+.healthy-food-section-description{
+    font-family: 'roboto';
+    font-size: 20px;
+    letter-spacing: 0.5px;
+}
+.custom-button{
+    background-color: #fab223;
+    color: #ffffff;
+    border-radius: 8px;
+    border-width: 0px;
+    height: 40px;
+    width: 120px;
+}
+.delivery-payment-container{
+    background-color: #ffffff;   
+}
+.delivery-payment-image{
+    height: 300px;
+    width: 270px;
+}
+.delivery-payment-description{
+    font-family: 'roboto';
+    font-size: 20px;
+}
+.payment-images{
+    width: 60px;
+    height: 65px;
+    margin: 10px;
+}
+.thanking-customer-section{
+    background-image:radial-gradient(#fff8db,#fae38c);
+}
+.thanking-customer-description{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.thanking-customer-image{
+    width: 350px;
+    height: 350px;
+    margin-bottom: 20px;
+}
+
+
+
+
+.follow-us-card{
+    width: 90px;
+    height: 90px;
+    background-color: #faf7d2;
+    margin: 20px;
+    font-size: 50px;
+    border-radius: 50px;
+    padding-top: 7px;
+    padding-left: 21px;
+}
+.thanking-modal-title{
+    color: #fab223;
+    font-weight: 700;
+}
+
+
+
+.footer-bg-container{
+    background-color: #0f0266;
+}
+.vr-logoimage{
+    height: 60px;
+    width: 90px;
+    text-align: center;
+}
+.footer-card{
+    height: 80px;
+    width: 80px;
+    background-color: #4964ad;
+    margin: 10px;
+    border-radius: 50px;
+    font-size: 45px;
+    padding-top: 6px;
+}
+
+
+
+
+.contact-us-tittle{
+    color: #afc6e4;
+    margin-bottom: 20px;
+    font-size: 30px;
+}
+.contact-us-icon{
+    padding-top: 5px;
+    margin-right: 10px;
+}
+.contact-us-description{
+    color: #afc6e4;
+}
+
+
+
+
+
+.Let-Us-Help-You-tittle{
+    color: #afc6e4;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.Let-Us-Help-You-description{
+    color: #afc6e4;
+}
+
+
+
+.contact-us-icon2{
+    font-size: 20px;
+    padding-top: 10px; 
+    margin-right: 8px;
+}
+.Copyright-description{
+   font-size: 25px;
+   color: #afc6e4;
+}
+.hr-line{
+   background-color: #ffffff;
+}
